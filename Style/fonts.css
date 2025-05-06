@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Lemon";
+    src: url('../Media/fonts/lemonstyle-sweet/LemonstyleSweet-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Ultra";
+    src: url('../Media/fonts/ultra-marathon/UltraMarathonDemoRegular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Tyniside";
+    src: url('../Media/fonts/tyniside/Tyniside-Personal-Used.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "FirstLove";
+    src: url('../Media/fonts/first-love/First\ Love.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "BeachSunbathing";
+    src: url('../Media/fonts/beach-sunbathing/Beach\ Sunbathing.otf') format('opentype');
+}
